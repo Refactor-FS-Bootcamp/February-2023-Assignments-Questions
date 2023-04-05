@@ -58,15 +58,61 @@
 // }
 
 // debugger;
-console.log(1)
+// console.log(1)
 
-setTimeout(function(){
-  console.log('2')
-  next()
+// setTimeout(function(){
+//   console.log('2')
+//   next()
   
-},5000)
+// },5000)
 
 
-function next(){
-    console.log(3)
-}
+// function next(){
+//     console.log(3)
+// }
+
+// promises - async and await 
+
+// how to informations from an api;
+
+
+
+// console.log(data)
+
+// const myPromise = new Promise((resolve,reject)=>{
+
+// //producing code
+// const data = fetch('https://api.escuelajs.co/api/v1/products')
+
+
+//   resolve(data)
+
+// })
+
+// //comsumer code;
+
+
+// myPromise
+// .then((res)=>res.json())
+// .then((data)=>console.log(data))
+
+//async and await ;
+
+
+
+
+
+// async function getData(){
+//   const res =await fetch('https://api.escuelajs.co/api/v1/products');
+//   const data =await res.json()
+
+//   console.log(data)
+// }
+// getData();
+
+// fetch('https://api.escuelajs.co/api/v1/products')
+// .then((res)=>res.json())
+// .then((data)=>console.log(data))
+
+
+//ui - 
