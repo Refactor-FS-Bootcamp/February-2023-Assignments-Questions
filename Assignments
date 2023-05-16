@@ -2,3 +2,9 @@ Assignment-6
 -------------
 In the Contact App, take image URL from the user in form and add it. Show the image in the ContactDetail page, when the user clicks on it
 
+Assignment-7
+-------------
+Create a React Redux project following these posts
+https://nabendu82.medium.com/learn-react-redux-with-api-project-3f7e0af7bf0b
+https://nabendu82.medium.com/learn-react-redux-thunk-with-a-project-67151b370902
+
